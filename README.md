@@ -2,8 +2,6 @@
 
 A MATLAB signal-processing project: FIR audio denoising, IIR (Chebyshev) notch filter design, a time-varying chorus effect, and least-squares signal estimation.
 
-Originally developed for a university signal processing module.
-
 ## Run
 
 ```matlab
