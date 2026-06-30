@@ -38,7 +38,7 @@ The plot below compares the noisy signal (blue) with the filtered signal
 clip; after filtering, the signal collapses to near-zero in the quiet sections
 and only the genuine audio content remains.
 
-![Noisy vs filtered audio](images/noisy_vs_filtered.png)
+![Noisy vs filtered audio](preview(1).webp)
 
 *(The filtered signal appears time-shifted relative to the noisy one — this is
 the expected group delay introduced by the FIR filter.)*
