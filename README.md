@@ -64,12 +64,4 @@ MATLAB with the Signal Processing Toolbox (`fir1`, `freqz`, `cheb2ord`, `cheby2`
 
 Data files (`lab_Audio.mat`, `lab_signals.mat`) are loaded if present; stages are skipped cleanly if not.
 
-## Structure
 
-```
-.
-├── signal_processing_project.m
-├── images/
-│   └── noisy_vs_filtered.png
-└── README.md
-```
