@@ -24,7 +24,7 @@ That tone is removed with an FIR (non-recursive) band-stop filter, whose output 
 
 $$y[n] = \sum_{k=0}^{M} b[k]\, x[n-k]$$
 
-![Noisy vs filtered audio](images/noisy_vs_filtered.png)
+![Noisy vs filtered audio](preview%20(1).webp)
 
 Blue is the noisy signal, red the filtered result. The noise tone shows as a near-constant amplitude band; once filtered, only genuine audio remains. The red trace is offset by the filter's group delay of $M/2$ samples.
 
